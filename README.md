@@ -29,7 +29,7 @@ BAT+ ---[ R2 ]---+---[ R1 ]--- GND
                ADC_PIN
 ```
 
-ADC pin used: **GPIO4** (configurable in `battery_monitor.h`). Any
+ADC pin used: **GPI10** (configurable in `battery_monitor.h`). Any
 ADC1-capable pin works — see the "ADC pin notes" section below.
 
 ## Project structure
